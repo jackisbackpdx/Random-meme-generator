@@ -1,0 +1,17 @@
+.diet {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 150px;
+}
+
+.diet p {
+    align-self: flex-start;
+}
+
+.diet label {
+    height: 20px;
+}
+form {
+    width: 200px;
+}
